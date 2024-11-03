@@ -7,3 +7,4 @@ primera linea
 
 conflito con la linea en main 
 
+guardar cambios temporales
